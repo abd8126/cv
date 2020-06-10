@@ -42,9 +42,12 @@ hr{
     width: 5%;
 
 }
+
 .abc{
-    background-color: firebrick;
+    size: 20px;
 }
+
+
 /**************************ID Implement *****************************************/
 #Heading{
     color: #786d09;
