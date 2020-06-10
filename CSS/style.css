@@ -8,6 +8,27 @@ p {
     color: blue;
     font-family: Arial;
 }
+ul{
+    color: blueviolet;
+    font-size: 20px;
+}
+/*
+td{
+    color: blueviolet;
+    font-size: 20px;
+}
+*/
+ .Achievement{
+     font-size: 20px;
+     color: #9c12a1;
+     font-family: "Arial Rounded MT Bold";
+ }
+
+ .Skills{
+     font-size: 20px;
+     color: rgba(18, 60, 167, 0.93);
+     font-family: Century;
+ }
 body{
     background-color: #cbf1f5;
 }
@@ -20,4 +41,13 @@ hr{
     border-width: 5px;
     width: 5%;
 
+}
+.abc{
+    background-color: firebrick;
+}
+/**************************ID Implement *****************************************/
+#Heading{
+    color: #786d09;
+    font-family: "Felix Titling";
+    font-size: 25px;
 }
